@@ -13,7 +13,7 @@ Our reading group usually takes place every Thursday at The Alan Turing Institut
 
 21 November 2019, Thursday, at 3PM, by Kathryn Leeming.
 
-The paper/topic: TBA
+The paper/topic: Forecasting traffic speeds in Bristol using time series methods
 
 ***
 
